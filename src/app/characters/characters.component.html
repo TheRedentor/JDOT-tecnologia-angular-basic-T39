@@ -1,0 +1,7 @@
+<div class="contenedor">
+    <div class="caja_personaje" *ngFor="let character of characters">
+        <img src="{{ character.image }}" alt="">
+        <p>{{ character.name }}</p>
+        <button class="btn btn-warning">See more</button>
+    </div>
+</div>

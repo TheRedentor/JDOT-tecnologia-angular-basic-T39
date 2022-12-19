@@ -1,0 +1,27 @@
+div {
+    display: inline-block;
+    margin: 20px 40px 20px 40px;
+}
+
+.caja_personaje {
+    border: 1px rgb(199, 199, 199) solid;
+    border-radius: 10px;
+}
+
+img {
+    border-radius: 9px 9px 0px 0px;
+}
+
+p {
+    text-align: left;
+    margin: 15px 0px 15px 15px;
+}
+
+.contenedor {
+    text-align: center;
+}
+
+button {
+    margin-bottom: 15px;
+    width: 270px;
+}
